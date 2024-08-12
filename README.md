@@ -35,7 +35,7 @@ This data approach student achievement in secondary education of two Portuguese 
 
 ## Documentation
 
-For more detailed documentation, please refer to the [documentaion]([docs/index.md](https://medium.com/p/c669f162e817)).
+For more detailed documentation, please refer to the [documentaion](https://medium.com/p/c669f162e817).
 
 ## Contributing
 At this time, this project is not open to contributions. If you have any feedback or suggestions, feel free to reach out, but please note that pull requests or other contributions will not be accepted.
