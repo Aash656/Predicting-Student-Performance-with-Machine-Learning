@@ -8,12 +8,8 @@ Student Performance Prediction using Machine Learning
 
 1. [Introduction](#introduction)
 2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Data](#data)
-5. [Features](#features)
-6. [Modeling](#modeling)
-7. [Results](#results)
-8. [Evaluation](#evaluation)
+3. [Data](#data)
+8. [Documentation](#documentation)
 9. [Contributing](#contributing)
 10. [License](#license)
 
@@ -39,7 +35,7 @@ This data approach student achievement in secondary education of two Portuguese 
 
 ## Documentation
 
-For more detailed documentation, please refer to the [docs](docs/index.md) directory.
+For more detailed documentation, please refer to the [documentaion]([docs/index.md](https://medium.com/p/c669f162e817)).
 
 ## Contributing
 At this time, this project is not open to contributions. If you have any feedback or suggestions, feel free to reach out, but please note that pull requests or other contributions will not be accepted.
